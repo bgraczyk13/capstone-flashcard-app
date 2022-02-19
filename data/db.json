@@ -1,0 +1,17 @@
+{
+  "decks": [
+    {
+      "name": "Frontend React",
+      "description": "This deck includes material related to React!\n",
+      "id": 1
+    }
+  ],
+  "cards": [
+    {
+      "front": "What is React?",
+      "back": "This is just an example. Student will fill out relevant information here!",
+      "deckId": 1,
+      "id": 1
+    }
+  ]
+}
